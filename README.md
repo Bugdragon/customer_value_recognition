@@ -5,3 +5,5 @@ customer_value_recognition
 + 根据客户信息，对客户进行分类。
 + 针对不同类型客户进行特征提取，分析不同类型客户的价值。
 + 采取个性化服务，根据客户类型，制定相应营销策略。
+
+博客：(http://blog.csdn.net/nwu_NBL/article/details/79468263 "航空公司客户价值识别")
